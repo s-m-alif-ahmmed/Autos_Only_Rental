@@ -1,0 +1,3377 @@
+@media only screen and (min-width: 1366px) {
+  .container {
+    max-width: 1345px;
+  }
+}
+
+@media only screen and (min-width: 1600px) and (max-width: 1919px) {
+  .hero--area h1,
+  .hero--area h1 span {
+    font-size: 75px;
+    line-height: 94px;
+  }
+  .hero--area .car--box .car--details h3 {
+    font-size: 39px;
+  }
+  .why--choose--area .posi--img--wrapper img {
+    width: 780px;
+    height: 698px;
+  }
+  .view--details--hero--area .autos--only--text {
+    width: 90%;
+  }
+}
+
+@media only screen and (min-width: 1440px) and (max-width: 1599px) {
+  .hero--area h1 {
+    max-width: 672px;
+  }
+  .hero--area h1,
+  .hero--area h1 span {
+    font-size: 58px;
+    line-height: 75px;
+  }
+  .hero--area .car--box .car--details h3 {
+    font-size: 34px;
+  }
+  .why--choose--area .whoose--options h3,
+  .why--choose--area .whoose--options h3 span,
+  .inventory--area h3.title,
+  .inventory--area h3.title span,
+  .faq--area h3,
+  .faq--area h3 span,
+  .testi--title h3,
+  .testi--title h3 span {
+    font-size: 44px;
+    line-height: 128%;
+  }
+  .why--choose--area .whoose--options .option h4 {
+    font-size: 26px;
+    margin-bottom: 12px;
+  }
+  .why--choose--area .whoose--options .option .op--num {
+    right: 60px;
+    font-size: 54px;
+  }
+  .why--choose--area .posi--img--wrapper img {
+    width: 725px;
+    height: 668px;
+  }
+  .inventory--area .sort--links--wrap li {
+    padding: 12px 56px;
+  }
+  .inventory--area .filter--area .nav-link {
+    padding: 12px 30px;
+  }
+  .steps--area h3 {
+    font-size: 46px;
+    line-height: 68px;
+  }
+  .testi--title:before {
+    right: auto;
+    left: -44px;
+    top: -83px;
+  }
+  .testi--title h3,
+  .testi--title h3 span {
+    max-width: 400px;
+  }
+  .view--details--hero--area .autos--only--text {
+    width: 90%;
+  }
+  .car--details--area .car--name--area h2 {
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 1366px) and (max-width: 1439px) {
+  .hero--area h1 {
+    max-width: 672px;
+  }
+  .hero--area h1,
+  .hero--area h1 span {
+    font-size: 58px;
+    line-height: 75px;
+  }
+  .hero--area .car--box .car--details h3 {
+    font-size: 32px;
+  }
+  .why--choose--area .whoose--options h3,
+  .why--choose--area .whoose--options h3 span,
+  .inventory--area h3.title,
+  .inventory--area h3.title span,
+  .faq--area h3,
+  .faq--area h3 span,
+  .testi--title h3,
+  .testi--title h3 span {
+    font-size: 44px;
+    line-height: 128%;
+  }
+  .why--choose--area .whoose--options .option h4 {
+    font-size: 26px;
+    margin-bottom: 12px;
+  }
+  .why--choose--area .whoose--options .option .op--num {
+    right: 60px;
+    font-size: 54px;
+  }
+  .why--choose--area .posi--img--wrapper img {
+    width: 725px;
+    height: 668px;
+  }
+  .inventory--area .sort--links--wrap li {
+    padding: 12px 56px;
+  }
+  .inventory--area .filter--area .nav-link {
+    padding: 12px 30px;
+  }
+  .steps--area h3 {
+    font-size: 46px;
+    line-height: 68px;
+  }
+  .testi--title:before {
+    right: auto;
+    left: -14px;
+    top: -83px;
+  }
+  .testi--title h3,
+  .testi--title h3 span {
+    max-width: 400px;
+  }
+  .hero--area {
+    padding: 200px 0 150px;
+  }
+  .testi--box,
+  .testimonial--area .testi--title {
+    margin-top: 30px;
+  }
+  .view--details--hero--area .autos--only--text {
+    width: 90%;
+  }
+  .car--details--area .car--name--area h2 {
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {
+  .hero--area h1 {
+    max-width: 672px;
+  }
+  .hero--area h1,
+  .hero--area h1 span {
+    font-size: 58px;
+    line-height: 75px;
+  }
+  .hero--area .car--box .car--details h3 {
+    font-size: 33px;
+  }
+  .why--choose--area .whoose--options h3,
+  .why--choose--area .whoose--options h3 span,
+  .inventory--area h3.title,
+  .inventory--area h3.title span,
+  .faq--area h3,
+  .faq--area h3 span,
+  .testi--title h3,
+  .testi--title h3 span {
+    font-size: 44px;
+    line-height: 128%;
+  }
+  .why--choose--area .whoose--options .option h4 {
+    font-size: 26px;
+    margin-bottom: 12px;
+  }
+  .why--choose--area .whoose--options .option .op--num {
+    right: 0;
+    font-size: 46px;
+  }
+  .why--choose--area .posi--img--wrapper img {
+    width: 565px;
+    height: 540px;
+    bottom: 103px;
+  }
+  .inventory--area .sort--links--wrap li {
+    padding: 10px 44px;
+  }
+  .inventory--area .filter--area .nav-link {
+    padding: 10px 24px;
+  }
+  .steps--area h3 {
+    font-size: 42px;
+    line-height: 64px;
+  }
+  .testi--title:before {
+    right: auto;
+    left: -14px;
+    top: -100px;
+  }
+  .testi--title h3,
+  .testi--title h3 span {
+    max-width: 400px;
+  }
+  .hero--area {
+    padding: 200px 0 150px;
+  }
+  .testi--box,
+  .testimonial--area .testi--title {
+    margin-top: 30px;
+  }
+  header .logo img {
+    width: 178px;
+  }
+  header .menu--wrapper {
+    gap: 100px;
+  }
+  header .menu--wrapper .menu {
+    gap: 42px;
+  }
+  .button,
+  .buttonv2 {
+    padding: 6px 34px;
+  }
+  .hero--area .car--box .car--details {
+    min-width: 397px;
+    max-width: 397px;
+  }
+  .hero--slider .owl-nav button {
+    width: 65px;
+    height: 65px;
+  }
+  .hero--slider .owl-nav .owl-next {
+    right: 140px;
+  }
+  .hero--slider .owl-nav .owl-prev {
+    left: 140px;
+  }
+  .car--search--wrapper .input--group {
+    padding-right: 73px;
+  }
+  .car--search--wrapper form {
+    padding: 22px 38px;
+  }
+  .why--choose--area .posi--img--wrapper p {
+    width: 100%;
+  }
+  .car--card {
+    padding: 20px;
+  }
+  .car--card .img--area img {
+    width: 308px;
+    height: 185px;
+  }
+  .car--card .details .available {
+    font-size: 16px;
+  }
+  .car--card .details h4 {
+    font-size: 22px;
+  }
+  .car--card .details ul {
+    gap: 34px;
+  }
+  .car--card .details .pricing p {
+    font-size: 28px;
+  }
+  .steps--area .steps--box {
+    padding: 40px 34px;
+  }
+  .faq--area .accordion-item button {
+    font-size: 22px;
+  }
+  .faq--area .accordion-item .accordion-body p {
+    line-height: 34px;
+  }
+  .footer--box.logo--box {
+    width: 500px;
+  }
+  .car--filter--area .filter--box {
+    padding: 30px;
+  }
+  .car--filter--area .accordion-button::after {
+    height: 20px;
+    width: 20px;
+  }
+  .rent--hero--area .rent--img img {
+    height: 337px;
+  }
+  .view--details--hero--area .single--car--img {
+    width: 990px;
+    height: 490px;
+  }
+  .view--details--hero--area .autos--only--text {
+    width: 92%;
+  }
+  .car--details--area .car--name--area h2 {
+    font-size: 34px;
+    line-height: normal;
+  }
+  .car--details--area .single--car--specifications {
+    padding: 0;
+  }
+  .car--details--area .single--car--specifications .item svg {
+    width: 35px;
+  }
+  .car--details--area .refueling--area p {
+    font-size: 16px;
+    line-height: 29px;
+  }
+  .car--details--area .refueling--area h3,
+  .car--details--area .include--area h4 {
+    font-size: 22px;
+  }
+  .car--details--area .reservation--form form {
+    padding: 40px 20px;
+  }
+  .car--details--area .reservation--form form input {
+    height: 50px;
+  }
+  .review--box .header {
+    padding: 30px 60px 30px 60px;
+  }
+  .about--hero--area h1 {
+    font-size: 48px;
+    line-height: normal;
+  }
+  .about--hero--area p {
+    font-size: 22px;
+  }
+  .about--hero--area .img--area img {
+    height: 436px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 20px;
+  }
+  .conatct--info span {
+    font-size: 22px;
+  }
+  .form--common .button {
+    padding: 12px 20px;
+  }
+  .form--common textarea {
+    padding-top: 10px;
+    height: 150px;
+  }
+  .options--wrapper {
+    gap: 210px;
+  }
+  .rent--history--wrapper .nav-link {
+    font-size: 22px;
+  }
+  .rent--history--wrapper .mt_100 {
+    margin-top: 55px;
+  }
+  .history--card--wrapper {
+    margin-top: 40px;
+  }
+  .history--card--wrapper .history--card .img--area {
+    min-width: 250px;
+    max-width: 250px;
+    height: 175px;
+  }
+  .history--card--wrapper .history--card .details h4 {
+    font-size: 22px;
+  }
+  .history--card--wrapper .history--card ul.features li {
+    font-size: 16px;
+  }
+  .history--card--wrapper .history--card .actions {
+    width: 206px;
+  }
+  .history--card--wrapper .history--card .actions a {
+    padding: 6px 12px;
+    font-size: 16px;
+  }
+  .history--card--wrapper .history--card ul li,
+  .history--card--wrapper .history--card p {
+    font-size: 17px;
+  }
+  .rent--history--wrapper .search--form select {
+    padding: 18px 50px 18px 24px;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .hero--area h1 {
+    max-width: 630px;
+  }
+  .hero--area h1,
+  .hero--area h1 span {
+    font-size: 48px;
+    line-height: 59px;
+  }
+  .hero--area .car--box .car--details h3 {
+    font-size: 29px;
+  }
+  .why--choose--area .whoose--options h3,
+  .why--choose--area .whoose--options h3 span,
+  .inventory--area h3.title,
+  .inventory--area h3.title span,
+  .faq--area h3,
+  .faq--area h3 span,
+  .testi--title h3,
+  .testi--title h3 span {
+    font-size: 40px;
+    line-height: 128%;
+  }
+  .why--choose--area .whoose--options .option h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    line-height: normal;
+  }
+  .why--choose--area .whoose--options .option .op--num {
+    right: -30px;
+    font-size: 40px;
+  }
+  .why--choose--area .posi--img--wrapper img {
+    width: 459px;
+    height: 441px;
+    bottom: 131px;
+  }
+  .inventory--area .sort--links--wrap li {
+    padding: 10px 35px;
+  }
+  .inventory--area .filter--area .nav-link {
+    padding: 10px 24px;
+  }
+  .steps--area h3 {
+    font-size: 40px;
+    line-height: 56px;
+  }
+  .testi--title:before {
+    right: auto;
+    left: -14px;
+    top: -100px;
+  }
+  .testi--title h3,
+  .testi--title h3 span {
+    max-width: 400px;
+  }
+  .hero--area {
+    padding: 200px 0 150px;
+  }
+  .testi--box,
+  .testimonial--area .testi--title {
+    margin-top: 30px;
+  }
+  header .logo img {
+    width: 178px;
+  }
+  header .menu--wrapper {
+    gap: 60px;
+  }
+  header .menu--wrapper .menu {
+    gap: 24px;
+  }
+  .button,
+  .buttonv2 {
+    padding: 6px 34px;
+  }
+  .hero--area .car--box .car--details {
+    min-width: 356px;
+    max-width: 356px;
+    margin-top: 80px;
+  }
+  .hero--slider .owl-nav button {
+    width: 60px;
+    height: 60px;
+  }
+  .hero--slider .owl-nav .owl-next {
+    right: 140px;
+  }
+  .hero--slider .owl-nav .owl-prev {
+    left: 140px;
+  }
+  .car--search--wrapper .input--group {
+    padding-right: 36px;
+  }
+  .car--search--wrapper form {
+    padding: 22px 38px;
+  }
+  .why--choose--area .posi--img--wrapper p {
+    width: 100%;
+  }
+  .car--card {
+    padding: 20px;
+  }
+  .car--card .img--area img {
+    width: 245px;
+    height: 155px;
+  }
+  .car--card .details .available {
+    font-size: 16px;
+  }
+  .car--card .details h4 {
+    font-size: 20px;
+  }
+  .car--card .details ul {
+    gap: 16px;
+  }
+  .car--card .details .pricing p {
+    font-size: 22px;
+  }
+  .steps--area .steps--box {
+    padding: 30px;
+  }
+  .faq--area .accordion-item button {
+    font-size: 22px;
+  }
+  .faq--area .accordion-item .accordion-body p {
+    line-height: 34px;
+  }
+  .footer--box.logo--box {
+    width: 362px;
+  }
+  .hero--area .car--box .car--details .price {
+    font-size: 26px;
+  }
+  .hero--slider.owl-drag .owl-item {
+    margin-top: 25px;
+  }
+  .hero--slider.owl-carousel .owl-nav .owl-next,
+  .hero--slider.owl-carousel .owl-nav .owl-prev {
+    top: 18%;
+  }
+  .car--search--wrapper label,
+  .car--search--wrapper h4 {
+    font-size: 16px;
+  }
+  .why--choose--area .whoose--options .option p {
+    width: 422px;
+  }
+  .car--card .details ul li {
+    font-size: 14px;
+  }
+  .car--card .details .pricing .button {
+    padding: 4px 16px;
+    font-size: 15px;
+  }
+  .car--card .details .pricing p span {
+    font-size: 16px;
+  }
+  .steps--area .steps--box p {
+    margin-top: 26px;
+  }
+  .steps--area {
+    padding: 90px 0 120px;
+  }
+  .testi--box p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 20px;
+    width: 100%;
+  }
+  .testi--box h4 {
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+  .rent--posi .rent-img.rent-img {
+    width: 85px;
+  }
+  .rent--posi .rent-img.rent-img2 {
+    top: -70px;
+  }
+  .car--filter--area .filter--box {
+    padding: 30px;
+  }
+  .rent--hero--area .rent--img img {
+    height: 337px;
+  }
+  .rent--hero--area .rent--img img {
+    height: 337px;
+  }
+  .view--details--hero--area .single--car--img {
+    width: 100%;
+    height: 430px;
+    margin-top: 30px;
+  }
+  .view--details--hero--area .autos--only--text {
+    width: 92%;
+  }
+  .car--details--area .car--name--area h2 {
+    font-size: 32px;
+    line-height: normal;
+  }
+  .car--details--area .car--name--area h2 {
+    font-size: 32px;
+    line-height: normal;
+  }
+  .car--details--area .single--car--specifications {
+    padding: 0;
+  }
+  .car--details--area .single--car--specifications .item svg {
+    width: 35px;
+  }
+  .car--details--area .refueling--area p {
+    font-size: 16px;
+    line-height: 29px;
+  }
+  .car--details--area .refueling--area h3,
+  .car--details--area .include--area h4 {
+    font-size: 20px;
+  }
+  .car--details--area .reservation--form form {
+    padding: 40px 20px;
+  }
+  .car--details--area .reservation--form form input {
+    height: 50px;
+  }
+  .review--box .header {
+    padding: 30px 60px 30px 60px;
+  }
+  .car--details--area .include--area .feature {
+    padding-left: 54px;
+    column-gap: 80px;
+  }
+  .car--details--area .include--area .feature li {
+    line-height: normal;
+  }
+  .car--details--area .reservation--form h3 {
+    font-size: 24px;
+    padding: 4px 32px;
+  }
+  .car--details--area .reservation--form form label,
+  .car--details--area .reservation--form form input {
+    font-size: 16px;
+  }
+  .reservation--form p,
+  .reservation--form span {
+    font-size: 16px;
+  }
+  .review--box .reviews {
+    padding: 30px 40px 0 40px;
+  }
+  .about--hero--area h1 {
+    font-size: 42px;
+    line-height: normal;
+  }
+  .about--hero--area p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .about--hero--area .img--area img {
+    height: 388px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 20px;
+  }
+  .conatct--info span {
+    font-size: 18px;
+    width: 100%;
+    line-height: normal;
+    margin-bottom: 35px;
+  }
+  .form--common .button {
+    padding: 8px 20px;
+  }
+  .form--common textarea {
+    padding-top: 10px;
+    height: 120px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .form--common {
+    padding: 30px;
+  }
+  .faq--area .accordion-item {
+    padding: 30px 36px 30px 36px;
+  }
+  .user--profile--form .reminder h5 {
+    font-size: 22px;
+  }
+  .options--wrapper {
+    gap: 156px;
+  }
+  .rent--history--wrapper .nav-link {
+    font-size: 22px;
+  }
+  .rent--history--wrapper .mt_100 {
+    margin-top: 55px;
+  }
+  .history--card--wrapper {
+    margin-top: 40px;
+  }
+  .history--card--wrapper .history--card .img--area {
+    min-width: 250px;
+    max-width: 250px;
+    height: 175px;
+  }
+  .history--card--wrapper .history--card .details h4 {
+    font-size: 22px;
+  }
+  .history--card--wrapper .history--card ul.features li {
+    font-size: 16px;
+  }
+  .history--card--wrapper .history--card .actions {
+    width: 206px;
+  }
+  .history--card--wrapper .history--card .actions a {
+    padding: 6px 12px;
+    font-size: 16px;
+  }
+  .history--card--wrapper .history--card ul li,
+  .history--card--wrapper .history--card p {
+    font-size: 17px;
+  }
+  .rent--history--wrapper .search--form select {
+    padding: 18px 50px 18px 24px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .inventory--area .sort--links--wrap li {
+    padding: 10px 35px;
+  }
+  .inventory--area .filter--area .nav-link {
+    padding: 10px 24px;
+  }
+  .testi--title:before {
+    right: auto;
+    left: -14px;
+    top: -100px;
+  }
+  .testi--title h3,
+  .testi--title h3 span {
+    max-width: 400px;
+  }
+  .testi--box,
+  .testimonial--area .testi--title {
+    margin-top: 30px;
+  }
+  header .logo img {
+    width: 178px;
+  }
+  header .menu--wrapper {
+    gap: 60px;
+  }
+  header .menu--wrapper .menu {
+    gap: 24px;
+  }
+  .button,
+  .buttonv2 {
+    padding: 6px 34px;
+  }
+  .hero--area .car--box .car--details {
+    min-width: 356px;
+    max-width: 356px;
+    margin-top: 80px;
+  }
+  .hero--slider .owl-nav button {
+    width: 60px;
+    height: 60px;
+  }
+  .hero--slider .owl-nav .owl-next {
+    right: 140px;
+  }
+  .hero--slider .owl-nav .owl-prev {
+    left: 140px;
+  }
+  .car--search--wrapper .input--group {
+    padding-right: 30px;
+  }
+  .car--search--wrapper form {
+    padding: 22px 38px;
+  }
+  .why--choose--area .posi--img--wrapper p {
+    width: 100%;
+  }
+  .car--card {
+    padding: 20px;
+  }
+  .car--card .img--area img {
+    width: 245px;
+    height: 155px;
+  }
+  .car--card .details .available {
+    font-size: 16px;
+  }
+  .car--card .details h4 {
+    font-size: 20px;
+  }
+  .car--card .details ul {
+    gap: 16px;
+  }
+  .car--card .details .pricing p {
+    font-size: 22px;
+  }
+  .faq--area .accordion-item button {
+    font-size: 22px;
+  }
+  .faq--area .accordion-item .accordion-body p {
+    line-height: 34px;
+  }
+  .footer--box.logo--box {
+    width: 362px;
+  }
+  .hero--area .car--box .car--details .price {
+    font-size: 26px;
+  }
+  .hero--slider.owl-drag .owl-item {
+    margin-top: 25px;
+  }
+  .car--search--wrapper label,
+  .car--search--wrapper h4 {
+    font-size: 16px;
+  }
+  .why--choose--area .whoose--options .option p {
+    width: 422px;
+  }
+  .car--card .details ul li {
+    font-size: 14px;
+  }
+  .car--card .details .pricing .button {
+    padding: 4px 16px;
+    font-size: 15px;
+  }
+  .car--card .details .pricing p span {
+    font-size: 16px;
+  }
+  .steps--area {
+    padding: 90px 0 120px;
+  }
+  .testi--box p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 20px;
+    width: 100%;
+  }
+  .testi--box h4 {
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+  .rent--posi .rent-img.rent-img {
+    width: 85px;
+  }
+  .rent--posi .rent-img.rent-img2 {
+    top: -70px;
+  }
+  .form--common .button {
+    padding: 12px 20px;
+    margin-top: 40px;
+    line-height: normal;
+  }
+  .form--common input,
+  .form--common textarea {
+    height: 50px;
+  }
+  .rent--hero--area .rent--img img {
+    height: 260px;
+  }
+  .rent--hero--area h1,
+  .rent--hero--area h1 span,
+  .view--details--hero--area h1,
+  .view--details--hero--area h1 span {
+    font-size: 40px;
+  }
+  .about--hero--area h1 {
+    font-size: 35px;
+    line-height: normal;
+  }
+  .about--hero--area p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .about--hero--area .img--area img {
+    height: 388px;
+    margin-top: 20px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 20px;
+  }
+  .conatct--info span {
+    font-size: 18px;
+    width: 100%;
+    line-height: normal;
+    margin-bottom: 35px;
+  }
+  .form--common .button {
+    padding: 8px 20px;
+  }
+  .form--common textarea {
+    padding-top: 10px;
+    height: 120px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .form--common {
+    padding: 30px;
+  }
+  .about--hero--area {
+    padding: 140px 0 100px;
+  }
+  .contact--area {
+    padding: 78px 0 100px;
+  }
+  .conatct--info h3 {
+    font-size: 35px;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+  .faq--area .accordion-item {
+    padding: 30px 36px 30px 36px;
+  }
+  .img--big {
+    height: 400px;
+  }
+  .img--small {
+    height: 195px;
+  }
+  .popup--box p {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .hero--slider.owl-drag .owl-item {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+    margin-top: 10px;
+    opacity: 0.8;
+  }
+  .hero--slider .owl-stage {
+    margin-left: 0px;
+  }
+  .hamburger-menu {
+    display: block;
+  }
+  header .menu--wrapper {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    height: 100%;
+    width: 100%;
+    background-color: var(--white);
+    display: block;
+    padding-top: 140px;
+    padding-left: calc((100% - 720px) / 2 + 12px);
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    z-index: -1;
+  }
+  header .menu--wrapper.current {
+    left: 0;
+  }
+  header .menu--wrapper .menu {
+    display: block;
+  }
+  header .menu--wrapper .menu li {
+    padding: 7px 0;
+  }
+  header .btn--area {
+    margin-top: 30px;
+  }
+  header {
+    padding: 20px 0;
+  }
+  header .logo img {
+    width: 152px;
+  }
+  .hero--slider.owl-drag .owl-item .car--details {
+    opacity: 1;
+    margin-top: 30px;
+    min-width: 310px;
+    max-width: 310px;
+  }
+  .hero--area .hero--slider {
+    margin-top: 30px;
+  }
+  .hero--area h1,
+  .hero--area h1 span {
+    font-size: 40px;
+    line-height: 52px;
+  }
+  .hero--area h1 {
+    max-width: 464px;
+  }
+  .hero--area .car--box .car--details h3 {
+    font-size: 26px;
+  }
+  .hero--slider.owl-carousel .owl-nav .owl-next,
+  .hero--slider.owl-carousel .owl-nav .owl-prev {
+    top: 25%;
+  }
+  .car--search--wrapper form {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    border-radius: 20px;
+  }
+  .car--search--wrapper .input--group {
+    width: 45%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 45%;
+    flex: 0 0 45%;
+    margin-bottom: 20px;
+  }
+  .car--search--wrapper .input--group:nth-child(2):before {
+    display: none;
+  }
+  .why--choose--area .whoose--options h3,
+  .why--choose--area .whoose--options h3 span,
+  .inventory--area h3.title,
+  .inventory--area h3.title span,
+  .faq--area h3,
+  .faq--area h3 span,
+  .testi--title h3,
+  .testi--title h3 span {
+    font-size: 35px;
+    line-height: 128%;
+  }
+  .hero--area {
+    padding: 200px 0 100px;
+  }
+  .why--choose--area .whoose--options .option .op--num {
+    right: 0;
+    font-size: 40px;
+  }
+  .why--choose--area .posi--img--wrapper img {
+    width: 100%;
+    height: 480px;
+    bottom: 131px;
+    position: relative;
+    left: 0;
+    top: 0;
+  }
+  .why--choose--area .posi--img--wrapper .choose--car-desktop {
+    display: none;
+  }
+  .why--choose--area .posi--img--wrapper .choose--car-mobile {
+    display: block !important;
+  }
+  .why--choose--area .whoose--options .option h4 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    line-height: normal;
+  }
+  .inventory--area {
+    padding: 70px 0 110px;
+  }
+  .inventory--area .filter--area {
+    margin-top: 50px;
+  }
+  .steps--area .steps--box {
+    padding: 20px;
+  }
+  .steps--area .steps--box p {
+    font-size: 18px;
+    line-height: normal;
+    margin-top: 26px;
+  }
+  .testi--title p {
+    width: 100%;
+  }
+  .testi--title h3 svg {
+    height: 40px;
+    width: 42px;
+  }
+  .faq--area .accordion-item button {
+    font-size: 20px;
+  }
+  .faq--area .accordion-item .accordion-body p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .faq--area h3 {
+    margin-bottom: 60px;
+  }
+  .footer--row {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  .rent--btn--area .button {
+    padding: 8px 54px;
+  }
+  .steps--area h3 {
+    font-size: 35px;
+    line-height: 50px;
+    width: 100%;
+  }
+  footer li a,
+  footer li p {
+    font-size: 16px;
+  }
+  .footer--box.logo--box p {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  .footer--box h4 {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+  .hero--area .hero--slider {
+    z-index: 2;
+    position: relative;
+  }
+  .form--common .button {
+    padding: 12px 20px;
+    margin-top: 40px;
+    line-height: normal;
+  }
+  .form--common input,
+  .form--common textarea {
+    height: 50px;
+  }
+  .rent--hero--area .rent--img img {
+    width: 100%;
+    padding: 0;
+    margin-top: 20px;
+    height: 256px;
+  }
+  .rent--hero--area h1,
+  .rent--hero--area h1 span,
+  .view--details--hero--area h1,
+  .view--details--hero--area h1 span {
+    font-size: 36px;
+    line-height: normal;
+  }
+  .view--details--hero--area .single--car--img {
+    width: 100%;
+    height: 350px;
+    margin-top: 30px;
+  }
+  .view--details--hero--area .autos--only--text {
+    width: 92%;
+  }
+  .car--details--area .car--name--area h2 {
+    font-size: 32px;
+    line-height: normal;
+  }
+  .car--details--area .car--name--area h2 {
+    font-size: 26px;
+    line-height: normal;
+  }
+  .car--details--area .single--car--specifications {
+    padding: 0;
+    margin: 34px 0;
+  }
+  .car--details--area .single--car--specifications .item svg {
+    width: 28px;
+  }
+  .car--details--area .refueling--area p {
+    font-size: 16px;
+    line-height: 29px;
+  }
+  .car--details--area .refueling--area h3,
+  .car--details--area .include--area h4 {
+    font-size: 20px;
+  }
+  .car--details--area .reservation--form form {
+    padding: 40px;
+  }
+  .car--details--area .reservation--form form input {
+    height: 50px;
+  }
+  .review--box .header {
+    padding: 24px;
+  }
+  .car--details--area .include--area .feature {
+    padding-left: 54px;
+    column-gap: 80px;
+  }
+  .car--details--area .include--area .feature li {
+    line-height: normal;
+  }
+  .car--details--area .reservation--form h3 {
+    font-size: 24px;
+    padding: 4px 32px;
+  }
+  .car--details--area .reservation--form form label,
+  .car--details--area .reservation--form form input {
+    font-size: 16px;
+  }
+  .reservation--form p,
+  .reservation--form span {
+    font-size: 16px;
+  }
+  .review--box .reviews {
+    padding: 24px;
+  }
+  .view--details--hero--area {
+    padding: 150px 0 55px;
+  }
+  .reviews--area h3,
+  .reviews--area h3 span,
+  .more--cars--area h3,
+  .more--cars--area h3 span {
+    font-size: 35px;
+  }
+  .review--box .reviews .single--review p {
+    margin-top: 12px;
+  }
+  .user--option--header .hamburger-menu {
+    margin-left: 0;
+  }
+  .options--wrapper {
+    gap: 16px;
+  }
+  .user--profile--area {
+    padding: 180px 0 100px;
+  }
+  .user--profile--form .reminder h5 {
+    font-size: 20px;
+  }
+  .user--profile--form .upload--area {
+    gap: 22px;
+  }
+  .rent--history--wrapper .nav-link {
+    font-size: 22px;
+  }
+  .rent--history--wrapper .mt_100 {
+    margin-top: 55px;
+  }
+  .history--card--wrapper {
+    margin-top: 40px;
+  }
+  .history--card--wrapper .history--card .img--area {
+    min-width: 250px;
+    max-width: 250px;
+    height: 175px;
+  }
+  .history--card--wrapper .history--card .details h4 {
+    font-size: 22px;
+  }
+  .history--card--wrapper .history--card ul.features li {
+    font-size: 16px;
+  }
+  .history--card--wrapper .history--card .actions {
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .history--card--wrapper .history--card .actions a {
+    width: 46%;
+    flex: 0 0 46%;
+    margin-top: 0;
+  }
+  .history--card--wrapper .history--card .actions a {
+    padding: 6px 12px;
+    font-size: 16px;
+  }
+  .history--card--wrapper .history--card ul li,
+  .history--card--wrapper .history--card p {
+    font-size: 17px;
+  }
+  .rent--history--wrapper .search--form select {
+    padding: 18px 50px 18px 24px;
+  }
+  .history--card--wrapper .history--card,
+  .history--card--wrapper .details--and--action {
+    display: block !important;
+  }
+  .rent--history--wrapper .search--form .search--group {
+    width: 455px;
+  }
+  .rent--history--wrapper .nav-link {
+    font-size: 16px;
+    padding: 3px 20px;
+  }
+  .history--card--wrapper .review {
+    padding: 0px 40px 0px;
+  }
+  .history--card--wrapper .review h3 {
+    font-size: 20px;
+  }
+  .rate:not(:checked) > label {
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .inventory--area .sort--links--wrap li {
+    padding: 10px 35px;
+  }
+  .inventory--area .filter--area .nav-link {
+    padding: 10px 24px;
+  }
+  .testi--title:before {
+    right: auto;
+    left: -14px;
+    top: -100px;
+  }
+  .testi--title h3,
+  .testi--title h3 span {
+    max-width: 400px;
+  }
+  .testi--box,
+  .testimonial--area .testi--title {
+    margin-top: 30px;
+  }
+  header .logo img {
+    width: 128px;
+    height: 36px;
+  }
+  header .menu--wrapper {
+    gap: 60px;
+  }
+  header .menu--wrapper .menu {
+    gap: 24px;
+  }
+  .button,
+  .buttonv2 {
+    padding: 6px 34px;
+  }
+  .hero--area .car--box .car--details {
+    min-width: 356px;
+    max-width: 356px;
+    margin-top: 80px;
+  }
+  .hero--slider .owl-nav button {
+    width: 50px;
+    height: 50px;
+    border: 1px solid var(--primary-color) !important;
+  }
+  .hero--slider .owl-nav .owl-next {
+    right: 44px;
+  }
+  .hero--slider .owl-nav .owl-prev {
+    left: 44px;
+  }
+  .car--search--wrapper .input--group {
+    padding-right: 30px;
+  }
+  .car--search--wrapper form {
+    padding: 22px 38px;
+  }
+  .why--choose--area .posi--img--wrapper p {
+    width: 100%;
+  }
+  .car--card {
+    padding: 20px;
+  }
+  .car--card .img--area img {
+    width: 245px;
+    height: 155px;
+  }
+  .car--card .details .available {
+    font-size: 16px;
+  }
+  .car--card .details h4 {
+    font-size: 20px;
+  }
+  .car--card .details ul {
+    gap: 16px;
+  }
+  .car--card .details .pricing p {
+    font-size: 22px;
+  }
+  .faq--area .accordion-item button {
+    font-size: 18px;
+  }
+  .faq--area .accordion-item .accordion-body p {
+    line-height: 34px;
+  }
+  .footer--box.logo--box {
+    width: 267px;
+  }
+  .hero--area .car--box .car--details .price {
+    font-size: 26px;
+  }
+  .hero--slider.owl-drag .owl-item {
+    margin-top: 25px;
+  }
+  .car--search--wrapper label,
+  .car--search--wrapper h4 {
+    font-size: 16px;
+  }
+  .why--choose--area .whoose--options .option p {
+    width: 422px;
+  }
+  .car--card .details ul li {
+    font-size: 14px;
+  }
+  .car--card .details .pricing .button {
+    padding: 4px 16px;
+    font-size: 15px;
+  }
+  .car--card .details .pricing p span {
+    font-size: 16px;
+  }
+  .steps--area {
+    padding: 90px 0 120px;
+  }
+  .testi--box p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 20px;
+    width: 100%;
+  }
+  .testi--box h4 {
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+  .rent--posi .rent-img.rent-img {
+    width: 85px;
+  }
+  .rent--posi .rent-img.rent-img2 {
+    top: -70px;
+  }
+  .hero--area {
+    padding: 150px 0 100px;
+  }
+  .hero--area h1,
+  .hero--area h1 span {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .car--search--wrapper .input--group {
+    width: 50%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    margin-bottom: 20px;
+  }
+  .car--search--wrapper button {
+    border-radius: 10px;
+    width: 100%;
+    height: 45px;
+    margin-top: 10px;
+  }
+  .car--search--wrapper .submit--btn {
+    width: 100%;
+  }
+  .car--search--wrapper .input--group input {
+    font-size: 15px;
+  }
+  .car--search--wrapper .date--time {
+    gap: 8px;
+  }
+  .car--card .img--area {
+    text-align: center;
+  }
+  .why--choose--area .posi--img--wrapper img {
+    height: 350px;
+  }
+  header .menu--wrapper {
+    padding-left: calc((100% - 540px) / 2 + 12px);
+  }
+  .footer--box.logo--box img {
+    width: 130px;
+    height: 40px;
+  }
+  .footer--box.logo--box p {
+    width: 100%;
+  }
+  .footer--bottom {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .footer--bottom p {
+    -webkit-box-ordinal-group: 3;
+    -ms-flex-order: 2;
+    order: 2;
+    margin-top: 10px;
+  }
+  .faq--area .button {
+    padding: 8px 28px;
+    margin-top: 75px;
+  }
+  .rent--hero--area {
+    padding: 150px 0 20px;
+  }
+  .view--details--hero--area .single--car--img {
+    height: 270px;
+  }
+  .about--hero--area h1 {
+    font-size: 35px;
+    line-height: normal;
+  }
+  .about--hero--area p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .about--hero--area .img--area img {
+    height: 388px;
+    margin-top: 20px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 20px;
+  }
+  .conatct--info span {
+    font-size: 18px;
+    width: 100%;
+    line-height: normal;
+    margin-bottom: 35px;
+  }
+  .form--common .button {
+    padding: 8px 20px;
+  }
+  .form--common textarea {
+    padding-top: 10px;
+    height: 120px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .form--common {
+    padding: 30px;
+  }
+  .about--hero--area {
+    padding: 140px 0 100px;
+  }
+  .contact--area {
+    padding: 78px 0 100px;
+  }
+  .conatct--info h3 {
+    font-size: 35px;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+  .faq--area .accordion-item {
+    padding: 20px;
+  }
+  .faq--area.faq--page {
+    padding: 150px 0 100px;
+  }
+  .user--profile--form .user--image {
+    width: 120px;
+    height: 80px;
+  }
+  .history--card--wrapper {
+    border-radius: 20px;
+  }
+  .history--card--wrapper .history--card {
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .history--card--wrapper .history--card ul li,
+  .history--card--wrapper .history--card p,
+  .history--card--wrapper .history--card span {
+    font-size: 15px;
+  }
+  .rent--history--wrapper .nav-link {
+    font-size: 15px;
+    padding: 3px 8px;
+  }
+  .rent--history--area {
+    padding: 140px 0 100px;
+  }
+  .img--big {
+    height: 290px;
+  }
+  .popup--box p {
+    font-size: 22px;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 575px) {
+  .container {
+    padding: 0 20px;
+  }
+  .inventory--area .sort--links--wrap li {
+    padding: 10px 30px;
+    line-height: normal;
+    border-radius: 10px;
+  }
+  .inventory--area .filter--area .nav-link {
+    padding: 10px 24px;
+    line-height: normal;
+    border-radius: 10px;
+  }
+  .testi--title:before {
+    right: auto;
+    left: -14px;
+    top: -100px;
+  }
+  .testi--title h3,
+  .testi--title h3 span {
+    max-width: 400px;
+  }
+  .testi--box,
+  .testimonial--area .testi--title {
+    margin-top: 30px;
+  }
+  header .logo img {
+    width: 128px;
+    height: 36px;
+  }
+  header .menu--wrapper {
+    gap: 60px;
+  }
+  header .menu--wrapper .menu {
+    gap: 24px;
+  }
+  .button,
+  .buttonv2 {
+    padding: 6px 34px;
+  }
+  .hero--area .car--box .car--details {
+    min-width: 356px;
+    max-width: 356px;
+    margin-top: 80px;
+  }
+  .hero--slider .owl-nav button {
+    width: 50px;
+    height: 50px;
+    border: 1px solid var(--primary-color) !important;
+  }
+  .hero--slider .owl-nav .owl-next {
+    right: 44px;
+  }
+  .hero--slider .owl-nav .owl-prev {
+    left: 44px;
+  }
+  .car--search--wrapper .input--group {
+    padding-right: 30px;
+  }
+  .car--search--wrapper form {
+    padding: 22px;
+  }
+  .why--choose--area .posi--img--wrapper p {
+    width: 100%;
+  }
+  .car--card {
+    padding: 20px;
+  }
+  .car--card .img--area img {
+    width: 245px;
+    height: 155px;
+  }
+  .car--card .details .available {
+    font-size: 16px;
+  }
+  .car--card .details h4 {
+    font-size: 20px;
+  }
+  .car--card .details ul {
+    gap: 16px;
+  }
+  .car--card .details .pricing p {
+    font-size: 22px;
+  }
+  .faq--area .accordion-item button {
+    font-size: 18px;
+    line-height: normal;
+  }
+  .faq--area .accordion-item .accordion-body p {
+    line-height: 34px;
+  }
+  .footer--box.logo--box {
+    width: 234px;
+  }
+  .hero--area .car--box .car--details .price {
+    font-size: 26px;
+  }
+  .hero--slider.owl-drag .owl-item {
+    margin-top: 25px;
+  }
+  .car--search--wrapper label,
+  .car--search--wrapper h4 {
+    font-size: 15px;
+  }
+  .why--choose--area .whoose--options .option p {
+    width: 352px;
+  }
+  .car--card .details ul li {
+    font-size: 14px;
+  }
+  .car--card .details .pricing .button {
+    padding: 4px 16px;
+    font-size: 15px;
+  }
+  .car--card .details .pricing p span {
+    font-size: 16px;
+  }
+  .steps--area {
+    padding: 90px 0 120px;
+  }
+  .testi--box p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 20px;
+    width: 100%;
+  }
+  .testi--box h4 {
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+  .rent--posi .rent-img.rent-img {
+    width: 68px;
+  }
+  .rent--posi .rent-img.rent-img2 {
+    top: -70px;
+  }
+  .hero--area {
+    padding: 150px 0 60px;
+  }
+  .hero--area h1,
+  .hero--area h1 span {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .car--search--wrapper .input--group {
+    width: 50%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    margin-bottom: 20px;
+  }
+  .car--search--wrapper button {
+    border-radius: 10px;
+    width: 100%;
+    height: 45px;
+    margin-top: 10px;
+  }
+  .car--search--wrapper .submit--btn {
+    width: 100%;
+  }
+  .car--search--wrapper .input--group input {
+    font-size: 14px;
+    width: 93px;
+  }
+  .car--search--wrapper .date--time {
+    gap: 8px;
+  }
+  .car--card .img--area {
+    text-align: center;
+  }
+  .why--choose--area .posi--img--wrapper img {
+    height: 300px;
+  }
+  header .menu--wrapper {
+    padding-left: 20px;
+  }
+  .footer--box.logo--box img {
+    width: 130px;
+    height: 40px;
+  }
+  .footer--box.logo--box p {
+    width: 100%;
+  }
+  .footer--bottom {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .footer--bottom p {
+    -webkit-box-ordinal-group: 3;
+    -ms-flex-order: 2;
+    order: 2;
+    margin-top: 10px;
+  }
+  .faq--area .button {
+    padding: 8px 28px;
+    margin-top: 75px;
+  }
+  .why--choose--area .whoose--options h3,
+  .why--choose--area .whoose--options h3 span,
+  .inventory--area h3.title,
+  .inventory--area h3.title span,
+  .faq--area h3,
+  .faq--area h3 span,
+  .testi--title h3,
+  .testi--title h3 span {
+    font-size: 30px;
+    line-height: 128%;
+  }
+  .steps--area h3 {
+    width: 100%;
+  }
+  .steps--area h3 {
+    font-size: 30px;
+    line-height: 44px;
+  }
+  .testimonial--area:before,
+  .testi--title:before {
+    right: 20px;
+  }
+  .testi--title:before {
+    display: none;
+  }
+  .rent--hero--area {
+    padding: 150px 0 20px;
+  }
+  .rent--hero--area {
+    padding: 150px 0 20px;
+  }
+  .view--details--hero--area .single--car--img {
+    height: 256px;
+  }
+  .car--details--area .include--area li img {
+    width: 16px;
+  }
+  .car--details--area .refueling--area p {
+    font-size: 14px;
+    line-height: normal;
+  }
+  .car--details--area .refueling--area h3,
+  .car--details--area .include--area h4 {
+    font-size: 18px;
+  }
+  .about--hero--area h1 {
+    font-size: 35px;
+    line-height: normal;
+  }
+  .about--hero--area p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .about--hero--area .img--area img {
+    height: 388px;
+    margin-top: 20px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 20px;
+  }
+  .conatct--info span {
+    font-size: 18px;
+    width: 100%;
+    line-height: normal;
+    margin-bottom: 35px;
+  }
+  .form--common .button {
+    padding: 8px 20px;
+  }
+  .form--common textarea {
+    padding-top: 10px;
+    height: 120px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .form--common {
+    padding: 30px;
+  }
+  .about--hero--area {
+    padding: 140px 0 100px;
+  }
+  .contact--area {
+    padding: 78px 0 100px;
+  }
+  .conatct--info h3 {
+    font-size: 35px;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+  .faq--area .accordion-item {
+    padding: 20px;
+    margin-top: 16px;
+  }
+  .faq--area.faq--page {
+    padding: 150px 0 80px;
+  }
+  .user--profile--form h1 {
+    font-size: 28px;
+  }
+  .user--profile--area {
+    padding: 150px 0 80px;
+  }
+  .user--profile--form .user--image {
+    width: 120px;
+    height: 80px;
+  }
+  .history--card--wrapper .history--card {
+    padding: 20px;
+    border-radius: 18px;
+  }
+  .history--card--wrapper {
+    border-radius: 18px;
+  }
+  .rent--history--wrapper .search--form .search--group input {
+    height: 48px;
+  }
+  .rent--history--wrapper .search--form .search--group button {
+    width: 48px;
+    height: 48px;
+  }
+  .rent--history--wrapper .search--form select {
+    padding: 14px 26px 14px 20px;
+  }
+  .rent--history--wrapper .nav--wrapper {
+    overflow: auto;
+  }
+  .rent--history--wrapper .nav {
+    width: 600px;
+    gap: 10px;
+  }
+  .rent--history--wrapper h1 {
+    font-size: 28px;
+    line-height: normal;
+    margin-bottom: 34px;
+  }
+  .rent--history--area {
+    padding: 160px 0 100px;
+  }
+  .img--big {
+    height: 290px;
+  }
+  .popup--box p {
+    font-size: 22px;
+  }
+}
+@media only screen and (min-width: 375px) and (max-width: 479px) {
+  .container {
+    padding: 0 20px;
+  }
+  .inventory--area .sort--links--wrap li {
+    padding: 10px 24px;
+    line-height: normal;
+    border-radius: 10px;
+    font-size: 15px;
+  }
+  .inventory--area .filter--area .nav-link {
+    padding: 10px 12px;
+    line-height: normal;
+    border-radius: 10px;
+    font-size: 15px;
+  }
+  .testi--title:before {
+    right: auto;
+    left: -14px;
+    top: -100px;
+  }
+  .testi--title h3,
+  .testi--title h3 span {
+    max-width: 400px;
+  }
+  .testi--box,
+  .testimonial--area .testi--title {
+    margin-top: 30px;
+  }
+  header .logo img {
+    width: 128px;
+    height: 36px;
+  }
+  header .menu--wrapper {
+    gap: 60px;
+  }
+  header .menu--wrapper .menu {
+    gap: 24px;
+  }
+  .button,
+  .buttonv2 {
+    padding: 8px 34px;
+    font-size: 16px;
+    line-height: normal;
+  }
+  .hero--area .car--box .car--details {
+    min-width: 356px;
+    max-width: 356px;
+    margin-top: 80px;
+  }
+  .hero--slider .owl-nav button {
+    width: 44px;
+    height: 44px;
+    border: 1px solid var(--primary-color) !important;
+  }
+  .hero--slider .owl-nav .owl-next {
+    right: 44px;
+  }
+  .hero--slider .owl-nav .owl-prev {
+    left: 44px;
+  }
+  .car--search--wrapper .input--group {
+    padding-right: 30px;
+  }
+  .car--search--wrapper form {
+    padding: 18px;
+  }
+  .why--choose--area .posi--img--wrapper p {
+    width: 100%;
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .car--card {
+    padding: 20px;
+  }
+  .car--card .img--area img {
+    width: 245px;
+    height: 155px;
+  }
+  .car--card .details .available {
+    font-size: 15px;
+    line-height: normal;
+  }
+  .car--card .details h4 {
+    font-size: 20px;
+  }
+  .car--card .details ul {
+    gap: 16px;
+  }
+  .car--card .details .pricing p {
+    font-size: 22px;
+  }
+  .faq--area .accordion-item button {
+    font-size: 16px;
+    line-height: normal;
+  }
+  .faq--area .accordion-item .accordion-body p {
+    line-height: normal;
+    font-size: 15px;
+  }
+  .footer--box.logo--box {
+    width: 234px;
+  }
+  .hero--area .car--box .car--details .price {
+    font-size: 20px;
+  }
+  .hero--slider.owl-drag .owl-item {
+    margin-top: 25px;
+  }
+  .car--search--wrapper label,
+  .car--search--wrapper h4 {
+    font-size: 14px;
+    line-height: normal;
+  }
+  .why--choose--area .whoose--options .option p {
+    width: 264px;
+    line-height: 24px;
+    font-size: 17px;
+  }
+  .car--card .details ul li {
+    font-size: 14px;
+  }
+  .car--card .details .pricing .button {
+    padding: 4px 16px;
+    font-size: 15px;
+  }
+  .car--card .details .pricing p span {
+    font-size: 16px;
+  }
+  .steps--area {
+    padding: 70px 0;
+  }
+  .testi--box p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 20px;
+    width: 100%;
+  }
+  .testi--box h4 {
+    font-size: 18px;
+    margin-bottom: 0px;
+  }
+  .rent--posi .rent-img.rent-img {
+    width: 48px;
+  }
+  .rent--posi .rent-img.rent-img2 {
+    top: 0px;
+  }
+  .hero--area {
+    padding: 120px 0 50px;
+  }
+  .hero--area h1,
+  .hero--area h1 span {
+    font-size: 28px;
+    line-height: normal;
+  }
+  .car--search--wrapper .input--group {
+    width: 50%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    margin-bottom: 20px;
+  }
+  .car--search--wrapper button {
+    border-radius: 10px;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+  }
+  .car--search--wrapper .submit--btn {
+    width: 100%;
+  }
+  .car--search--wrapper .input--group input {
+    font-size: 14px;
+    width: 90px;
+  }
+  .car--search--wrapper .date--time {
+    gap: 8px;
+  }
+  .car--card .img--area {
+    text-align: center;
+  }
+  .why--choose--area .posi--img--wrapper img {
+    height: 246px;
+  }
+  header .menu--wrapper {
+    padding-left: 20px;
+  }
+  .footer--box.logo--box img {
+    width: 130px;
+    height: 40px;
+  }
+  .footer--box.logo--box p {
+    width: 100%;
+  }
+  .footer--bottom {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .footer--bottom p {
+    -webkit-box-ordinal-group: 3;
+    -ms-flex-order: 2;
+    order: 2;
+    margin-top: 10px;
+  }
+  .faq--area .button {
+    padding: 8px 28px;
+    margin-top: 65px;
+  }
+  .why--choose--area .whoose--options h3,
+  .why--choose--area .whoose--options h3 span,
+  .inventory--area h3.title,
+  .inventory--area h3.title span,
+  .faq--area h3,
+  .faq--area h3 span,
+  .testi--title h3,
+  .testi--title h3 span {
+    font-size: 28px;
+    line-height: normal;
+  }
+  .steps--area h3 {
+    width: 100%;
+  }
+  .steps--area h3 {
+    font-size: 28px;
+    line-height: normal;
+    margin-bottom: 28px;
+  }
+  .testimonial--area:before,
+  .testi--title:before {
+    display: none;
+  }
+  .testi--title:before {
+    display: none;
+  }
+  .hero--area h1 {
+    max-width: 316px;
+  }
+  .hero--area .hero--slider {
+    margin-top: 20px;
+  }
+  .hero--area .car--box .car--details h3 {
+    font-size: 20px;
+    line-height: normal;
+  }
+  .hero--area .car--box .car--details .rating svg {
+    width: 60px;
+  }
+  .hero--area .car--box .car--details .price span {
+    font-size: 16px;
+  }
+  .hero--slider.owl-drag .owl-item .car--details {
+    opacity: 1;
+    margin-top: 30px;
+    min-width: 238px;
+    max-width: 238px;
+  }
+  .car--search--wrapper .date--time {
+    display: block;
+  }
+  .car--search--wrapper .date--time .date:before {
+    right: 20px;
+  }
+  .why--choose--area .whoose--options .option h4 {
+    font-size: 18px;
+    margin-bottom: 8px;
+    line-height: normal;
+  }
+  .why--choose--area .whoose--options .option {
+    margin-top: 25px;
+  }
+  .why--choose--area .whoose--options .option .op--num {
+    font-size: 36px;
+  }
+  .inventory--area {
+    padding: 38px 0 70px;
+  }
+  .inventory--area .filter--area {
+    margin-top: 40px;
+  }
+  .inventory--area .filter--area .nav,
+  .inventory--area .sort--links--wrap {
+    gap: 12px;
+  }
+  .rent--btn--area .button {
+    padding: 8px 40px;
+    line-height: normal;
+  }
+  .steps--area .steps--box {
+    border-radius: 18px;
+  }
+  .steps--area .steps--box p {
+    margin-top: 20px;
+  }
+  .testimonial--area {
+    padding: 40px 0 70px;
+  }
+  .testi--title h3 svg {
+    height: 33px;
+    width: 35px;
+  }
+  .testi--box {
+    padding: 20px;
+    border-radius: 18px;
+  }
+  .testi--box img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 12px;
+  }
+  .faq--area .accordion-item {
+    padding: 12px 16px;
+    margin-top: 12px;
+  }
+  .faq--area {
+    padding-bottom: 70px;
+  }
+  .footer--box {
+    width: 100%;
+    margin-top: 30px;
+  }
+  .footer--box h4 {
+    margin-bottom: 2px;
+  }
+  footer {
+    padding: 57px 0;
+  }
+  .footer--bottom ul {
+    gap: 16px;
+  }
+  .form--common {
+    padding: 20px;
+  }
+  .form--common input,
+  .form--common textarea {
+    height: 44px;
+  }
+  .form--common label {
+    font-size: 16px;
+  }
+  .form--common .button {
+    padding: 10px 20px;
+    margin-top: 33px;
+  }
+  .user--profile--form h1 {
+    font-size: 28px;
+  }
+  .login--register--area {
+    padding: 150px 0;
+  }
+  .car--card:hover {
+    border-radius: 18px;
+  }
+  .car--filter--area .filter--box {
+    padding: 20px;
+    border-radius: 18px;
+  }
+  .car--filter--area .filter--box .accordion-item button,
+  .car--filter--area .form-group.available--car label p,
+  .car--filter--area .filter--option p,
+  .car--filter--area .filter--option span {
+    font-size: 16px;
+  }
+  .car--filter--area .accordion-button::after {
+    height: 16px;
+    width: 16px;
+  }
+  .car--filter--area .filter--box .accordion-item:first-child {
+    margin-top: 10px;
+  }
+  .car--filter--area .filter--box .accordion-item {
+    margin-top: 0;
+  }
+  .rent--hero--area {
+    padding: 120px 0 40px;
+  }
+  .rent--hero--area h1,
+  .rent--hero--area h1 span,
+  .view--details--hero--area h1,
+  .view--details--hero--area h1 span {
+    font-size: 28px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .rent--hero--area .rent--img img {
+    height: 190px;
+  }
+  .filter--pagination {
+    margin-top: 50px;
+  }
+  .car--filter--area {
+    padding-bottom: 75px;
+  }
+  .testi--box {
+    margin-top: 20px;
+  }
+  .testi--title p {
+    margin-bottom: 20px;
+  }
+  .view--details--hero--area .single--car--img {
+    height: 200px;
+    margin-top: 10px;
+  }
+  .view--details--hero--area {
+    padding: 130px 0 55px;
+  }
+  .car--details--area .car--name--area h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+  }
+  .car--details--area .rating svg {
+    width: 20px;
+    height: 20px;
+  }
+  .car--details--area .rating span {
+    font-size: 16px;
+  }
+  .car--details--area .single--car--specifications {
+    gap: 22px;
+    margin: 25px 0;
+  }
+  .car--details--area .single--car--specifications .item p {
+    font-size: 17px;
+  }
+  .car--details--area .refueling--area h3,
+  .car--details--area .include--area h4 {
+    font-size: 18px;
+  }
+  .car--details--area .refueling--area p {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+  }
+  .car--details--area .include--area .feature {
+    padding-left: 30px;
+    column-gap: 36px;
+  }
+  .car--details--area .include--area li img {
+    width: 18px;
+  }
+  .car--details--area .include--area .feature li p {
+    font-size: 14px;
+    line-height: normal;
+  }
+  .car--details--area .reservation--form h3 {
+    font-size: 18px;
+    padding: 11px 32px;
+    line-height: normal;
+  }
+  .car--details--area .reservation--form form {
+    padding: 20px;
+  }
+  .car--details--area .reservation--form form input {
+    height: 46px;
+    font-size: 14px;
+  }
+  .car--details--area .reservation--form .input--group.date::before {
+    top: 55%;
+  }
+  .car--details--area .reservation--form form .radio--box--area label {
+    margin-top: 12px;
+  }
+  .reservation--form p,
+  .reservation--form span {
+    line-height: normal;
+  }
+  .reviews--area h3,
+  .reviews--area h3 span,
+  .more--cars--area h3,
+  .more--cars--area h3 span {
+    font-size: 28px;
+    line-height: normal;
+  }
+  .reviews--area {
+    padding: 72px 0;
+  }
+  .review--box {
+    border-radius: 18px;
+  }
+  .review--box .header {
+    padding: 16px;
+  }
+  .review--box .header p {
+    font-size: 18px;
+    line-height: normal;
+  }
+  .review--box .sortby select {
+    font-size: 16px;
+    padding: 4px 10px 4px 10px;
+    width: 124px;
+  }
+  .review--box .sortby {
+    gap: 6px;
+  }
+  .review--box .sortby p {
+    font-size: 16px;
+  }
+  .review--box .reviews {
+    height: 374px;
+    padding: 16px;
+  }
+  .review--box .reviews .single--review img {
+    width: 46px;
+    height: 46px;
+  }
+  .review--box .reviews .single--review .name h4 {
+    font-size: 16px;
+  }
+  .review--box .reviews .single--review {
+    gap: 10px;
+  }
+  .review--box .reviews .single--review .message {
+    margin-top: 10px;
+  }
+  .review--box .reviews .single--review .message svg {
+    width: 16px;
+  }
+  .more--cars--area .mb_45 {
+    margin-bottom: 10px;
+  }
+  .more--cars--area {
+    padding-bottom: 70px;
+  }
+  .about--hero--area h1 {
+    font-size: 28px;
+    line-height: normal;
+    margin-bottom: 16px;
+  }
+  .about--hero--area p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .about--hero--area .img--area img {
+    height: 230px;
+    margin-top: 0px;
+    border-radius: 16px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 20px;
+  }
+  .conatct--info span {
+    font-size: 18px;
+    width: 100%;
+    line-height: normal;
+    margin-bottom: 26px;
+  }
+  .form--common .button {
+    padding: 8px 20px;
+    margin-top: 20px;
+  }
+  .form--common textarea {
+    padding-top: 10px;
+    height: 120px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 16px;
+    margin-bottom: 4px;
+  }
+  .form--common {
+    padding: 20px 16px;
+  }
+  .about--hero--area {
+    padding: 90px 0 70px;
+  }
+  .contact--area {
+    padding: 40px 0 70px;
+  }
+  .conatct--info h3 {
+    font-size: 28px;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+  .about--hero--text .mt_20 {
+    margin-top: 10px;
+  }
+  .conatct--info a svg,
+  .conatct--info p svg {
+    margin-right: 12px;
+    width: 20px;
+    height: 20px;
+  }
+  .form--common .input--group {
+    margin-top: 20px;
+  }
+  .form--common textarea {
+    height: 110px;
+  }
+  .faq--area.faq--page {
+    padding: 120px 0 70px;
+  }
+  .user--options .toggle img {
+    width: 48px;
+    height: 48px;
+  }
+  .user--options .toggle span {
+    display: none;
+  }
+  .user--profile--area {
+    padding: 120px 0 70px;
+  }
+  .user--profile--form .upload--area #image-preview {
+    width: 116px;
+    height: 76px;
+  }
+  .user--profile--form .upload--area label {
+    width: 127px;
+    height: 86px;
+  }
+  .user--profile--form .upload--area svg {
+    width: 18px;
+  }
+  .user--profile--form .reminder h5 {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  .user--profile--form .reminder p {
+    font-size: 14px;
+  }
+  .user--profile--form .upload--area {
+    gap: 16px;
+    margin-bottom: 30px;
+  }
+  .user--profile--form .user--image {
+    width: 110px;
+    height: 67px;
+    margin-bottom: 34px;
+  }
+  .history--card--wrapper .history--card {
+    padding: 20px;
+    border-radius: 18px;
+  }
+  .history--card--wrapper {
+    border-radius: 18px;
+  }
+  .rent--history--wrapper .search--form .search--group input {
+    height: 48px;
+  }
+  .rent--history--wrapper .search--form .search--group button {
+    width: 44px;
+    height: 44px;
+  }
+  .rent--history--wrapper .search--form select {
+    padding: 10px 45px 10px 20px;
+  }
+  .rent--history--wrapper .nav--wrapper {
+    overflow: auto;
+  }
+  .rent--history--wrapper .nav {
+    width: 626px;
+    gap: 10px;
+  }
+  .rent--history--wrapper h1 {
+    font-size: 28px;
+    line-height: normal;
+    margin-bottom: 34px;
+  }
+  .rent--history--area {
+    padding: 140px 0 70px;
+  }
+  .rent--history--wrapper .search--form .search--group {
+    width: 100%;
+  }
+  .rent--history--wrapper .search--form {
+    flex-direction: column;
+  }
+  .rent--history--wrapper .mt_100 {
+    margin-top: 30px;
+  }
+  .history--card--wrapper .history--card .details h4 {
+    font-size: 20px;
+  }
+  .history--card--wrapper .history--card ul.features {
+    gap: 16px;
+  }
+  .history--card--wrapper .history--card ul.features li svg {
+    width: 20px;
+    height: 20px;
+  }
+  .history--card--wrapper .history--card ul {
+    display: block;
+  }
+  .history--card--wrapper .history--card ul.features {
+    display: flex !important;
+  }
+  .history--card--wrapper .history--card .actions a {
+    width: 100%;
+    flex: 0 0 100%;
+    padding: 10px 12px;
+  }
+  .history--card--wrapper .history--card .actions {
+    gap: 10px;
+  }
+  .history--card--wrapper .review .button {
+    width: 100%;
+  }
+  .rate:not(:checked) > label {
+    font-size: 32px;
+  }
+  .history--card--wrapper .review {
+    padding: 0px 20px 0px;
+  }
+  .img--big,
+  .img--small {
+    height: 240px;
+  }
+  .popup--box p {
+    font-size: 22px;
+  }
+  .view--details--hero--area .row {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+  .view--details--hero--area .row [class*="col-"] {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+  .container {
+    padding: 0 20px;
+  }
+  .inventory--area .sort--links--wrap li {
+    padding: 8px 16px;
+    line-height: normal;
+    border-radius: 10px;
+    font-size: 15px;
+  }
+  .inventory--area .filter--area .nav-link {
+    padding: 10px 12px;
+    line-height: normal;
+    border-radius: 10px;
+    font-size: 13px;
+  }
+  .testi--title:before {
+    right: auto;
+    left: -14px;
+    top: -100px;
+  }
+  .testi--title h3,
+  .testi--title h3 span {
+    max-width: 400px;
+  }
+  .testi--box,
+  .testimonial--area .testi--title {
+    margin-top: 30px;
+  }
+  header .logo img {
+    width: 128px;
+    height: 36px;
+  }
+  header .menu--wrapper {
+    gap: 60px;
+  }
+  header .menu--wrapper .menu {
+    gap: 24px;
+  }
+  .button,
+  .buttonv2 {
+    padding: 8px 34px;
+    line-height: normal;
+  }
+  .hero--area .car--box .car--details {
+    min-width: 356px;
+    max-width: 356px;
+    margin-top: 80px;
+  }
+  .hero--slider .owl-nav button {
+    width: 44px;
+    height: 44px;
+    border: 1px solid var(--primary-color) !important;
+  }
+  .hero--slider .owl-nav .owl-next {
+    right: 44px;
+  }
+  .hero--slider .owl-nav .owl-prev {
+    left: 44px;
+  }
+  .car--search--wrapper .input--group {
+    padding-right: 30px;
+  }
+  .car--search--wrapper form {
+    padding: 18px;
+  }
+  .why--choose--area .posi--img--wrapper p {
+    width: 100%;
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .car--card {
+    padding: 20px;
+  }
+  .car--card .img--area img {
+    width: 245px;
+    height: 155px;
+  }
+  .car--card .details .available {
+    font-size: 15px;
+    line-height: normal;
+  }
+  .car--card .details h4 {
+    font-size: 20px;
+  }
+  .car--card .details ul {
+    gap: 16px;
+  }
+  .car--card .details .pricing p {
+    font-size: 22px;
+  }
+  .faq--area .accordion-item button {
+    font-size: 15px;
+    line-height: normal;
+  }
+  .faq--area .accordion-item .accordion-body p {
+    line-height: normal;
+    font-size: 15px;
+  }
+  .footer--box.logo--box {
+    width: 234px;
+  }
+  .hero--area .car--box .car--details .price {
+    font-size: 20px;
+  }
+  .hero--slider.owl-drag .owl-item {
+    margin-top: 25px;
+  }
+  .car--search--wrapper label,
+  .car--search--wrapper h4 {
+    font-size: 14px;
+    line-height: normal;
+  }
+  .why--choose--area .whoose--options .option p {
+    width: 252px;
+    line-height: 24px;
+    font-size: 17px;
+  }
+  .car--card .details ul li {
+    font-size: 14px;
+  }
+  .car--card .details .pricing .button {
+    padding: 4px 16px;
+    font-size: 15px;
+  }
+  .car--card .details .pricing p span {
+    font-size: 16px;
+  }
+  .steps--area {
+    padding: 80px 0;
+  }
+  .testi--box p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 20px;
+    width: 100%;
+  }
+  .testi--box h4 {
+    font-size: 18px;
+    margin-bottom: 0px;
+  }
+  .rent--posi .rent-img.rent-img {
+    width: 48px;
+  }
+  .rent--posi .rent-img.rent-img2 {
+    top: 0px;
+  }
+  .hero--area {
+    padding: 120px 0 50px;
+  }
+  .hero--area h1,
+  .hero--area h1 span {
+    font-size: 24px;
+    line-height: normal;
+  }
+  .car--search--wrapper .input--group {
+    width: 50%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    margin-bottom: 20px;
+  }
+  .car--search--wrapper button {
+    border-radius: 10px;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+  }
+  .car--search--wrapper .submit--btn {
+    width: 100%;
+  }
+  .car--search--wrapper .input--group input {
+    font-size: 14px;
+    width: 90px;
+  }
+  .car--search--wrapper .date--time {
+    gap: 8px;
+  }
+  .car--card .img--area {
+    text-align: center;
+  }
+  .why--choose--area .posi--img--wrapper img {
+    height: 209px;
+  }
+  header .menu--wrapper {
+    padding-left: 20px;
+  }
+  .footer--box.logo--box img {
+    width: 130px;
+    height: 40px;
+  }
+  .footer--box.logo--box p {
+    width: 100%;
+  }
+  .footer--bottom {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .footer--bottom p {
+    -webkit-box-ordinal-group: 3;
+    -ms-flex-order: 2;
+    order: 2;
+    margin-top: 10px;
+  }
+  .faq--area .button {
+    padding: 8px 28px;
+    margin-top: 65px;
+  }
+  .why--choose--area .whoose--options h3,
+  .why--choose--area .whoose--options h3 span,
+  .inventory--area h3.title,
+  .inventory--area h3.title span,
+  .faq--area h3,
+  .faq--area h3 span,
+  .testi--title h3,
+  .testi--title h3 span {
+    font-size: 28px;
+    line-height: normal;
+  }
+  .steps--area h3 {
+    width: 100%;
+  }
+  .steps--area h3 {
+    font-size: 28px;
+    line-height: normal;
+    margin-bottom: 28px;
+  }
+  .testimonial--area:before,
+  .testi--title:before {
+    display: none;
+  }
+  .testi--title:before {
+    display: none;
+  }
+  .hero--area h1 {
+    max-width: 299px;
+  }
+  .hero--area .hero--slider {
+    margin-top: 20px;
+  }
+  .hero--area .car--box .car--details h3 {
+    font-size: 20px;
+    line-height: normal;
+  }
+  .hero--area .car--box .car--details .rating svg {
+    width: 60px;
+  }
+  .hero--area .car--box .car--details .price span {
+    font-size: 16px;
+  }
+  .hero--slider.owl-drag .owl-item .car--details {
+    opacity: 1;
+    margin-top: 30px;
+    min-width: 238px;
+    max-width: 238px;
+  }
+  .car--search--wrapper .date--time {
+    display: block;
+  }
+  .car--search--wrapper .date--time .date:before {
+    right: 8px;
+  }
+  .why--choose--area .whoose--options .option h4 {
+    font-size: 18px;
+    margin-bottom: 8px;
+    line-height: normal;
+  }
+  .why--choose--area .whoose--options .option {
+    margin-top: 25px;
+  }
+  .why--choose--area .whoose--options .option .op--num {
+    font-size: 28px;
+    right: -18px;
+  }
+  .inventory--area {
+    padding: 38px 0 70px;
+  }
+  .inventory--area .filter--area {
+    margin-top: 40px;
+  }
+  .inventory--area .filter--area .nav,
+  .inventory--area .sort--links--wrap {
+    gap: 12px;
+  }
+  .rent--btn--area .button {
+    padding: 8px 40px;
+    line-height: normal;
+  }
+  .steps--area .steps--box {
+    border-radius: 18px;
+  }
+  .steps--area .steps--box p {
+    margin-top: 20px;
+  }
+  .testimonial--area {
+    padding: 40px 0 70px;
+  }
+  .testi--title h3 svg {
+    height: 33px;
+    width: 35px;
+  }
+  .testi--box {
+    padding: 20px;
+    border-radius: 18px;
+  }
+  .testi--box img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 12px;
+  }
+  .faq--area .accordion-item {
+    padding: 12px 16px;
+    margin-top: 12px;
+  }
+  .faq--area {
+    padding-bottom: 70px;
+  }
+  .footer--box {
+    width: 100%;
+    margin-top: 30px;
+  }
+  .footer--box h4 {
+    margin-bottom: 2px;
+  }
+  footer {
+    padding: 57px 0;
+  }
+  .footer--bottom ul {
+    gap: 16px;
+  }
+  footer li a,
+  footer li p {
+    font-size: 14px;
+  }
+  .footer--box h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .footer--box.contact p {
+    max-width: 100%;
+    margin-top: 5px;
+    line-height: 24px;
+  }
+  .footer--bottom ul {
+    gap: 10px;
+  }
+  .footer--bottom p {
+    font-size: 14px;
+  }
+  .form--common label {
+    font-size: 16px;
+  }
+  .form--common .button {
+    padding: 10px 20px;
+    margin-top: 33px;
+  }
+  .user--profile--form h1 {
+    font-size: 28px;
+  }
+  .user--profile--form .form--common {
+    padding: 20px;
+  }
+  .form--common input,
+  .form--common textarea {
+    height: 44px;
+  }
+  .login--register--area {
+    padding: 150px 0;
+  }
+  .car--card:hover {
+    border-radius: 18px;
+  }
+  .car--filter--area .filter--box {
+    padding: 20px;
+    border-radius: 18px;
+  }
+  .car--filter--area .filter--box .accordion-item button,
+  .car--filter--area .form-group.available--car label p,
+  .car--filter--area .filter--option p,
+  .car--filter--area .filter--option span {
+    font-size: 16px;
+  }
+  .car--filter--area .accordion-button::after {
+    height: 16px;
+    width: 16px;
+  }
+  .car--filter--area .filter--box .accordion-item:first-child {
+    margin-top: 10px;
+  }
+  .car--filter--area .filter--box .accordion-item {
+    margin-top: 0;
+  }
+  .rent--hero--area {
+    padding: 120px 0 40px;
+  }
+  .rent--hero--area h1,
+  .rent--hero--area h1 span,
+  .view--details--hero--area h1,
+  .view--details--hero--area h1 span {
+    font-size: 28px;
+  }
+  .rent--hero--area .rent--img img {
+    height: 190px;
+  }
+  .filter--pagination {
+    margin-top: 50px;
+  }
+  .car--filter--area {
+    padding-bottom: 75px;
+  }
+  .testi--box {
+    margin-top: 20px;
+  }
+  .testi--title p {
+    margin-bottom: 20px;
+  }
+  .view--details--hero--area .single--car--img {
+    height: 170px;
+    margin-top: 10px;
+  }
+  .view--details--hero--area {
+    padding: 130px 0 55px;
+  }
+  .car--details--area .car--name--area h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+  }
+  .car--details--area .rating svg {
+    width: 20px;
+    height: 20px;
+  }
+  .car--details--area .rating span {
+    font-size: 16px;
+  }
+  .car--details--area .single--car--specifications {
+    gap: 22px;
+    margin: 25px 0;
+  }
+  .car--details--area .single--car--specifications .item p {
+    font-size: 14px;
+  }
+  .car--details--area .refueling--area h3,
+  .car--details--area .include--area h4 {
+    font-size: 16px;
+  }
+  .car--details--area .refueling--area p {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+  }
+  .car--details--area .include--area .feature {
+    padding-left: 20px;
+    column-gap: 20px;
+  }
+  .car--details--area .include--area li img {
+    width: 18px;
+  }
+  .car--details--area .include--area .feature li p {
+    font-size: 12px;
+    line-height: normal;
+  }
+  .car--details--area .reservation--form h3 {
+    font-size: 18px;
+    padding: 11px 32px;
+    line-height: normal;
+  }
+  .car--details--area .reservation--form form {
+    padding: 20px;
+  }
+  .car--details--area .reservation--form form input {
+    height: 46px;
+    font-size: 14px;
+  }
+  .car--details--area .reservation--form .input--group.date::before {
+    top: 55%;
+  }
+  .car--details--area .reservation--form form .radio--box--area label {
+    margin-top: 12px;
+  }
+  .reservation--form p,
+  .reservation--form span {
+    line-height: normal;
+  }
+  .reviews--area h3,
+  .reviews--area h3 span,
+  .more--cars--area h3,
+  .more--cars--area h3 span {
+    font-size: 28px;
+    line-height: normal;
+  }
+  .reviews--area {
+    padding: 72px 0;
+  }
+  .review--box {
+    border-radius: 18px;
+  }
+  .review--box .header {
+    padding: 16px;
+  }
+  .review--box .header p {
+    font-size: 18px;
+    line-height: normal;
+  }
+  .review--box .sortby select {
+    font-size: 16px;
+    padding: 4px 10px 4px 10px;
+    width: 124px;
+  }
+  .review--box .sortby {
+    gap: 6px;
+  }
+  .review--box .sortby p {
+    font-size: 16px;
+  }
+  .review--box .reviews {
+    height: 374px;
+    padding: 16px;
+  }
+  .review--box .reviews .single--review img {
+    width: 46px;
+    height: 46px;
+  }
+  .review--box .reviews .single--review .name h4 {
+    font-size: 16px;
+  }
+  .review--box .reviews .single--review {
+    gap: 10px;
+  }
+  .review--box .reviews .single--review .message {
+    margin-top: 10px;
+  }
+  .review--box .reviews .single--review .message svg {
+    width: 16px;
+  }
+  .more--cars--area .mb_45 {
+    margin-bottom: 10px;
+  }
+  .more--cars--area {
+    padding-bottom: 70px;
+  }
+  .calendar--wrapper .row {
+    padding: 0;
+  }
+  .about--hero--area h1 {
+    font-size: 28px;
+    line-height: normal;
+    margin-bottom: 16px;
+  }
+  .about--hero--area p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .about--hero--area .img--area img {
+    height: 230px;
+    margin-top: 0px;
+    border-radius: 16px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 20px;
+  }
+  .conatct--info span {
+    font-size: 18px;
+    width: 100%;
+    line-height: normal;
+    margin-bottom: 26px;
+  }
+  .form--common .button {
+    padding: 8px 20px;
+    margin-top: 20px;
+    font-size: 15px;
+  }
+  .form--common textarea {
+    padding-top: 10px;
+    height: 120px;
+  }
+  .conatct--info a,
+  .conatct--info p {
+    font-size: 16px;
+    margin-bottom: 4px;
+  }
+  .form--common {
+    padding: 20px 16px;
+  }
+  .about--hero--area {
+    padding: 90px 0 70px;
+  }
+  .contact--area {
+    padding: 40px 0 70px;
+  }
+  .conatct--info h3 {
+    font-size: 28px;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+  .about--hero--text .mt_20 {
+    margin-top: 10px;
+  }
+  .conatct--info a svg,
+  .conatct--info p svg {
+    margin-right: 12px;
+    width: 20px;
+    height: 20px;
+  }
+  .form--common .input--group {
+    margin-top: 20px;
+  }
+  .form--common textarea {
+    height: 110px;
+  }
+  .faq--area.faq--page {
+    padding: 120px 0 70px;
+  }
+  .user--options .toggle img {
+    width: 48px;
+    height: 48px;
+  }
+  .user--options .toggle span {
+    display: none;
+  }
+  .user--profile--area {
+    padding: 120px 0 70px;
+  }
+  .user--profile--form .upload--area #image-preview {
+    width: 92px;
+    height: 59px;
+  }
+  .user--profile--form .upload--area label {
+    width: 100px;
+    height: 65px;
+  }
+  .user--profile--form .upload--area svg {
+    width: 18px;
+  }
+  .user--profile--form .reminder h5 {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  .user--profile--form .reminder p {
+    font-size: 14px;
+  }
+  .user--profile--form .upload--area {
+    gap: 16px;
+    margin-bottom: 30px;
+  }
+  .user--profile--form .user--image {
+    width: 110px;
+    height: 67px;
+    margin-bottom: 34px;
+  }
+  .history--card--wrapper .history--card {
+    padding: 20px;
+    border-radius: 18px;
+  }
+  .history--card--wrapper {
+    border-radius: 18px;
+  }
+  .rent--history--wrapper .search--form .search--group input {
+    height: 48px;
+  }
+  .rent--history--wrapper .search--form .search--group button {
+    width: 44px;
+    height: 44px;
+  }
+  .rent--history--wrapper .search--form select {
+    padding: 10px 45px 10px 20px;
+  }
+  .rent--history--wrapper .nav--wrapper {
+    overflow: auto;
+  }
+  .rent--history--wrapper .nav {
+    width: 626px;
+    gap: 10px;
+  }
+  .rent--history--wrapper h1 {
+    font-size: 28px;
+    line-height: normal;
+    margin-bottom: 34px;
+  }
+  .rent--history--area {
+    padding: 140px 0 70px;
+  }
+  .rent--history--wrapper .search--form .search--group {
+    width: 100%;
+  }
+  .rent--history--wrapper .search--form {
+    flex-direction: column;
+  }
+  .rent--history--wrapper .mt_100 {
+    margin-top: 30px;
+  }
+  .history--card--wrapper .history--card .details h4 {
+    font-size: 20px;
+  }
+  .history--card--wrapper .history--card ul.features {
+    gap: 16px;
+  }
+  .history--card--wrapper .history--card ul.features li svg {
+    width: 20px;
+    height: 20px;
+  }
+  .history--card--wrapper .history--card ul {
+    display: block;
+  }
+  .history--card--wrapper .history--card ul.features {
+    display: flex !important;
+  }
+  .history--card--wrapper .history--card .actions a {
+    width: 100%;
+    flex: 0 0 100%;
+    padding: 10px 12px;
+  }
+  .history--card--wrapper .history--card .actions {
+    gap: 10px;
+  }
+  .history--card--wrapper .review .button {
+    width: 100%;
+  }
+  .rate:not(:checked) > label {
+    font-size: 32px;
+  }
+  .history--card--wrapper .review {
+    padding: 0px 20px 0px;
+  }
+  .img--big,
+  .img--small {
+    height: 240px;
+  }
+  .popup--box p {
+    font-size: 22px;
+  }
+  .view--details--hero--area .row {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+  .view--details--hero--area .row [class*="col-"] {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
